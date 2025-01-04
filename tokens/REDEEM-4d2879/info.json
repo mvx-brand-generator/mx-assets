@@ -1,0 +1,11 @@
+{
+  "website": "https://rocket-doge-moon.vercel.app/",
+  "description": "rooker to the moon",
+  "social": {
+    "x": "https://twitter.com/HatomProtocol"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

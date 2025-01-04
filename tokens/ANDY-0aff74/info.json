@@ -1,0 +1,9 @@
+{
+  "website": "https://truthterminal.wiki/",
+  "description": "asdasdasdasd",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

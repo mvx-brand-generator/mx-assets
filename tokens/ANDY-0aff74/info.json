@@ -1,0 +1,11 @@
+{
+  "website": "https://truthterminal.wiki/",
+  "description": "fs dfs dfsdfsdf sdf",
+  "social": {
+    "twitter": "https://twitter.com/HatomProtocol"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

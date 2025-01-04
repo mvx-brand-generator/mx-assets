@@ -1,0 +1,9 @@
+{
+  "website": "https://rocket-doge-moon.vercel.app/",
+  "description": "hnjm,hjk ghjhgj",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

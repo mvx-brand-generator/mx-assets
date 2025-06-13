@@ -1,0 +1,13 @@
+{
+  "website": "https://burnify.app/",
+  "description": "hahaha trump",
+  "social": {
+    "twitter": "https://twitter.com/BurnifyApp",
+    "whitepaper": "https://litepaper.burnify.app",
+    "telegram": "https://t.me/Burnify"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
